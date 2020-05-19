@@ -23,6 +23,8 @@ void loop() {
 }
 
 void buttonPressed(int button){
+  Keyboard.press(KEY_LEFT_CTRL);
+  Keyboard.press(KEY_LEFT_ALT);
   Keyboard.press(KEY_LEFT_SHIFT);
   switch (button)
   {
@@ -53,5 +55,6 @@ void buttonPressed(int button){
   default:
     break;
   }
+  delay(200);
   Keyboard.releaseAll();
 }
