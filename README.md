@@ -13,6 +13,10 @@ Main source code can be found here: [main.cpp](src/main.cpp)
 ![OBS-Controller overview](img/box.jpg)
 **Insides of the box, it is actually very simple**
 ![OBS-Controller overview](img/detail.jpg)
+**Updated the box to have a footswitch and a USB-B connector to relief cable stress on the Arduino**
+![OBS-Controller overview](img/detail_updated.jpg)
+**Connectors on the backside**
+![OBS-Controller overview](img/connectors.jpg)
 **Overview of connections**
 ![OBS-Controller overview](img/wires.jpg)
 **Small overview schematic**
